@@ -3,7 +3,7 @@ macro_copy: macro_copy {
     compatible = "zmk,behavior-macro";
     label = "macro_copy";
     #binding-cells = <0>;
-    bindings = <&kp C>;
+    bindings = <&kp LG(C)>;
 };
 
 /* sample macros */
