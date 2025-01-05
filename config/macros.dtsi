@@ -9,7 +9,7 @@ macro_paste: macro_paste {
     compatible = "zmk,behavior-macro";
     label = "macro_paste";
     #binding-cells = <0>;
-    bindings = <&kp LG(V)>;
+    bindings = <&kp LS(V)>;
 };
 /* sample macros */
 macro_quotes: macro_quotes{
